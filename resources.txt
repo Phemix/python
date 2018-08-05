@@ -1,0 +1,18 @@
+#Severeal sites to learn python
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+#Dark SKy API
+https://github.com/talva/weather-history-retriever/blob/master/weather.py
+
+
+#Another site to learn python
+http://www.davekuhlman.org/python_book_01.html
+
+#Dreamsoft
+http://www.dreamsyssoft.com/python-scripting-tutorial/optionparser-tutorial.php
+
+#Quora
+https://www.quora.com/How-do-I-learn-Python-for-scripting#
+
+
+
