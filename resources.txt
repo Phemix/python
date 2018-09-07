@@ -17,4 +17,6 @@ https://www.quora.com/How-do-I-learn-Python-for-scripting#
 #CronJob
 https://code.tutsplus.com/tutorials/managing-cron-jobs-using-python--cms-28231
 
+#SeveralScripts
+https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
 
