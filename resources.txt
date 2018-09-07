@@ -14,5 +14,7 @@ http://www.dreamsyssoft.com/python-scripting-tutorial/optionparser-tutorial.php
 #Quora
 https://www.quora.com/How-do-I-learn-Python-for-scripting#
 
+#CronJob
+https://code.tutsplus.com/tutorials/managing-cron-jobs-using-python--cms-28231
 
 
