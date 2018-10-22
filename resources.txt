@@ -20,3 +20,6 @@ https://code.tutsplus.com/tutorials/managing-cron-jobs-using-python--cms-28231
 #SeveralScripts
 https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
 
+#Tutorials Point
+https://www.tutorialspoint.com/python/python_reg_expressions.htm
+
